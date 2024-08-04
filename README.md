@@ -66,7 +66,7 @@ A project utilizing OpenAI's GPT model to enable web browsing capabilities. This
   python gpt_browse.py
   ```
 
-  Use the custom commands mentioned above to interact with the model.
+ For GPT, you don't need to use commands. It understands when to use the browser as if it were `function_calling`.
 
 ### Example Usage of `gpt_browse.py`
 
