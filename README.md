@@ -10,6 +10,7 @@ A project utilizing OpenAI's GPT model to enable web browsing capabilities. This
   - `/click=ID`: Extract text from a selected ID.
   - `/search_exit`: Exit the search mode.
 
+
 ## Getting Started
 
 ### Prerequisites
@@ -66,6 +67,17 @@ A project utilizing OpenAI's GPT model to enable web browsing capabilities. This
   ```
 
   Use the custom commands mentioned above to interact with the model.
+
+### Example Usage of `gpt_browse.py`
+
+Simply ask the model to Google something for you.
+
+**Me**: Google the news for 2024 and tell me what you found out.  
+**AI**: Of course!
+
+### Example Usage of `browse.py`
+
+Simply use the command `/search="query"`, `/click=ID`, `/search_exit`.
 
 ## Troubleshooting
 
