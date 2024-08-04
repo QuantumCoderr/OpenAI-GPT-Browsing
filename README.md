@@ -14,7 +14,7 @@ A project utilizing OpenAI's GPT model to enable web browsing capabilities. This
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3.9+
 - pip
 
 ### Installation
