@@ -1,0 +1,5 @@
+# Ignore environment variable files
+.env
+
+# Allow template files to be committed
+!template.env
