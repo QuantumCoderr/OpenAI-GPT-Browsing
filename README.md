@@ -40,7 +40,7 @@ A project utilizing OpenAI's GPT model to enable web browsing capabilities. This
    Create a `.env` file based on `template.env` and add your API key and endpoint URL:
 
    ```plaintext
-   API_KEY=your_key_here
+   OPENAI_API_KEY=your_key_here
    API_BASE=https://api.openai.com/v1
    ```
 
